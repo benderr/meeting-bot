@@ -1,0 +1,24 @@
+{
+  "name": "meeting-bot",
+  "version": "1.0.0",
+  "description": "Bot for alert users in group if they not write plan today",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benderr/meeting-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benderr/meeting-bot/issues"
+  },
+  "homepage": "https://github.com/benderr/meeting-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "proxy-agent": "^3.0.0",
+    "telegraf": "^3.21.1"
+  }
+}
